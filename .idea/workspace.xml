@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38259ff4-d797-42c0-a13c-c7ccab4831f9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BlogSpider$main_tuniu.coverage" NAME="main_tuniu Coverage Results" MODIFIED="1544774243080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BlogSpider$main_jianshu.coverage" NAME="main_jianshu Coverage Results" MODIFIED="1544771052497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BlogSpider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1544771007174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlogSpider" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BlogSpider/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+              <folding>
+                <element signature="e#193#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>101.2</find>
+      <find>102.7</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/MakeResult.txt" />
+        <option value="$PROJECT_DIR$/bin/shibor_mail.py" />
+        <option value="$PROJECT_DIR$/../DataCenter/DataCenter/settings.py" />
+        <option value="$PROJECT_DIR$/../DataCenter/maim_cpi.py" />
+        <option value="$PROJECT_DIR$/../DataCenter/DataCenter/items.py" />
+        <option value="$PROJECT_DIR$/../DataCenter/DataCenter/pipelines.py" />
+        <option value="$PROJECT_DIR$/../DataCenter/DataCenter/spiders/cpi_spider.py" />
+        <option value="$PROJECT_DIR$/mdfiles/{}.html" />
+        <option value="$PROJECT_DIR$/mdfiles/aaa.html" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/shibor.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/items.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/pipelines.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/testerhome.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/tuniu.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/jianshu_everyday.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/jianshu.py" />
+        <option value="$PROJECT_DIR$/BlogSpider/spiders/crawl_topic.py" />
+        <option value="$PROJECT_DIR$/main_crawl.py" />
+        <option value="$PROJECT_DIR$/main_day.py" />
+        <option value="$PROJECT_DIR$/main_jianshu.py" />
+        <option value="$PROJECT_DIR$/main_shibor.py" />
+        <option value="$PROJECT_DIR$/main_tuniu.py" />
+        <option value="$PROJECT_DIR$/bin/downfiles.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BlogSpider-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSpider-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlogSpider-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSpider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlogSpider-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSpider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BlogSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlogSpider-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogSpider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BlogSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/BlogSpider" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main_tuniu">
+    <configuration name="{}.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BlogSpider/mdfiles/{}.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="aaa.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BlogSpider/mdfiles/aaa.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="main_jianshu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlogSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_jianshu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_tuniu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlogSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_tuniu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlogSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlogSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlogSpider/pipelines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.{}.html" />
+      <item itemvalue="JavaScript Debug.aaa.html" />
+      <item itemvalue="Python.main_jianshu" />
+      <item itemvalue="Python.pipelines" />
+      <item itemvalue="Python.main_tuniu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_tuniu" />
+        <item itemvalue="Python.main_jianshu" />
+        <item itemvalue="JavaScript Debug.{}.html" />
+        <item itemvalue="Python.pipelines" />
+        <item itemvalue="JavaScript Debug.aaa.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38259ff4-d797-42c0-a13c-c7ccab4831f9" name="Default" comment="" />
+      <created>1523522134753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523522134753</updated>
+      <workItem from="1566293033114" duration="2234000" />
+      <workItem from="1566375162989" duration="3337000" />
+      <workItem from="1566467517313" duration="633000" />
+      <workItem from="1566805912386" duration="6360000" />
+      <workItem from="1566893073764" duration="6679000" />
+      <workItem from="1566955210440" duration="5042000" />
+      <workItem from="1567148773900" duration="3751000" />
+      <workItem from="1568093621520" duration="194000" />
+      <workItem from="1568604368211" duration="202000" />
+      <workItem from="1568620357260" duration="4069000" />
+      <workItem from="1568706584220" duration="2099000" />
+      <workItem from="1568796510671" duration="1808000" />
+      <workItem from="1568963965341" duration="340000" />
+      <workItem from="1568970910435" duration="599000" />
+      <workItem from="1569202625177" duration="22000" />
+      <workItem from="1569378206540" duration="546000" />
+      <workItem from="1569723726006" duration="32000" />
+      <workItem from="1569821363471" duration="4317000" />
+      <workItem from="1570499631429" duration="1672000" />
+      <workItem from="1570611179420" duration="176000" />
+      <workItem from="1570758241498" duration="450000" />
+      <workItem from="1570864921711" duration="612000" />
+      <workItem from="1571046184144" duration="57000" />
+      <workItem from="1571196119405" duration="25000" />
+      <workItem from="1571638570463" duration="37000" />
+      <workItem from="1572231732071" duration="25000" />
+      <workItem from="1572419912169" duration="617000" />
+      <workItem from="1572848024331" duration="756000" />
+      <workItem from="1573111665752" duration="47000" />
+      <workItem from="1573197824888" duration="355000" />
+      <workItem from="1573436745953" duration="272000" />
+      <workItem from="1573538692456" duration="1761000" />
+      <workItem from="1573782105980" duration="71000" />
+      <workItem from="1574055382124" duration="22000" />
+      <workItem from="1574303104858" duration="25000" />
+      <workItem from="1574328701893" duration="303000" />
+    </task>
+    <task id="LOCAL-00001" summary="# add same modify">
+      <created>1523935030477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523935030477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="# add same modify">
+      <created>1523946312308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523946312308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="# add same modify">
+      <created>1524032665030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524032665031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="# add same modify">
+      <created>1544771098935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544771098935</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49547000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2386059" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296837" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47316104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3045326" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JSON Viewer" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="# add same modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="# add same modify" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/files/Shibor数据2006.txt" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/mime/text.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py" />
+    <entry file="file://$PROJECT_DIR$/bin/shibor_mail.py" />
+    <entry file="file://$PROJECT_DIR$/bin/catelina.log" />
+    <entry file="file://$PROJECT_DIR$/bin/MakeResult.txt" />
+    <entry file="file://$PROJECT_DIR$/../DataCenter/DataCenter/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../DataCenter/maim_cpi.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/-1199943127/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../DataCenter/DataCenter/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/../DataCenter/DataCenter/items.py" />
+    <entry file="file://$PROJECT_DIR$/../DataCenter/DataCenter/spiders/cpi_spider.py" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/3d8bec6be5cda4a04218d36314b57998.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/1f7507877ab2e92f937e02d5aaf01437.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/1b79297d857cf8291fad8ab8bdf5ce8e.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/6b5ff978cca4c4dfddd3bbc15b2b0445.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/aaa.html" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/{}.html" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/0a3567d1a46530a1409f1de7c2ddcc92.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/5b8fa81fa012ec708a4294714b475fc3.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/8a6f29d6fbac8ff42b434da1142de508.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/47c07dad415a366d98bfa4f40dc77241.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/64c3037e1f1cf439476c8b20844485b9.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/5491cfec376314ac8efaa52029979e2a.md" />
+    <entry file="file://$PROJECT_DIR$/mdfiles/0c93025fccb9af27bc186c5ee0d38e20.md" />
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/core/spidermw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/spidermiddlewares/urllength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="94">
+            <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1098">
+          <caret line="731" column="6" selection-start-line="731" selection-start-column="6" selection-end-line="731" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/shibor.py" />
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/testerhome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/jianshu_everyday.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/jianshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#121#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/crawl_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#124#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_crawl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_day.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_jianshu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_shibor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_tuniu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/downfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1266">
+          <caret line="111" column="30" lean-forward="true" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+          <folding>
+            <element signature="e#119#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="48" column="18" selection-start-line="48" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/spiders/tuniu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
